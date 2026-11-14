@@ -1,4 +1,5 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-red)
+[![EDA: KiCad 9.0](https://img.shields.io/badge/EDA-KiCad%209.0-orange.svg)](#)
 
 # ESP32-FM-Radio-Custom-PCB-and-Enclosure
 ESP32-based FM radio with TEA5767 tuner, KY-040 rotary encoder, PAM8403 amplifier, and 0.96" OLED display. Custom PCB design.
