@@ -21,7 +21,9 @@ Figure 1 [Photo of the prototype that used Arduino UNO].<br>
 <br>
 Figure 2 [Circuit Diagram of the prototype].<br>
 <br>
-To see a video demonstration of the prototype, please follow https://youtu.be/HQ7OcgIyThs, and for a detailed breakdown of the theory, component selection, and circuit design, you can read this [PDF File](Producing_an_FM_Radio_Tuner.pdf).<br>
+To see a video demonstration of the prototype, please follow https://youtu.be/HQ7OcgIyThs, and for a detailed breakdown of the theory, component selection, and circuit design, you can read this 
+<a href="Producing_an_FM_Radio_Tuner.pdf"> report</a>
+<br>
 
 ## Evolving into a PCB design project
 ### Schematic 
